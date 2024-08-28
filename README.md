@@ -1,6 +1,4 @@
-<p align="center">
-  [🇹🇷 Türkçe](####turkce) | [🇺🇸 English](####english)
-</p>
+[🇹🇷 Türkçe](####turkce) | [🇺🇸 English](####english)
 
 #### Türkçe
 
