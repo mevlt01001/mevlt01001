@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#türkçe">🇹🇷 Türkçe</a> | <a href="#english">🇺🇸 English</a>
+  <a href="#türkçe">[🇹🇷 Türkçe](#türkçe)</a> | <a href="#english">[🇺🇸 English](#english)</a>
 </p>
 
 #### Türkçe
