@@ -1,5 +1,5 @@
 <p align="center">
-  [🇹🇷 Türkçe](####türkçe) | [🇺🇸 English](####english)
+  [🇹🇷 Türkçe](####turkce) | [🇺🇸 English](####english)
 </p>
 
 #### Türkçe
