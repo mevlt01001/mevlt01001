@@ -1,4 +1,4 @@
-<p> aling="center"
+<p align="center">
 [🇹🇷 Türkçe](#turkce) | [🇺🇸 English](#english)
 </p>
 
