@@ -1,4 +1,6 @@
+<p> aling="center"
 [🇹🇷 Türkçe](#turkce) | [🇺🇸 English](#english)
+</p>
 
 #### Türkçe
 
