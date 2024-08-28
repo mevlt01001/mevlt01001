@@ -1,4 +1,4 @@
-[🇹🇷 Türkçe](####turkce) | [🇺🇸 English](####english)
+[🇹🇷 Türkçe](#turkce) | [🇺🇸 English](#english)
 
 #### Türkçe
 
