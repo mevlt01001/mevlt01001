@@ -1,4 +1,9 @@
 
+<p align="left">
+<a href="#turkce"> 🇹🇷 Türkçe </a>
+<a href="#english"> 🇺🇸 English </a>
+</p>
+
 [🇹🇷 Türkçe](#turkce) | [🇺🇸 English](#english)
 
 
