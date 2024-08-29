@@ -1,13 +1,13 @@
 
 <p align="right">
-<a href="#‎ tr"> 🇹🇷 Türkçe </a>
-<a href="#‎ en"> 🇺🇸 English </a>
+<a href="#‎‎ "> 🇹🇷 Türkçe </a>
+<a href="#‎‎ ‎ "> 🇺🇸 English </a>
 </p>
 
-[🇹🇷 Türkçe](#‎ tr) | [🇺🇸 English](#‎ en)
+[🇹🇷 Türkçe](#‎‎ ) | [🇺🇸 English](#‎‎ ‎ )
 
 
-#### tr
+#### ‎ 
 
 <h1 align="center">Merhaba 👋, Ben Mevlüt Başaran</h1>
 <h3 align="center">Yapay zeka ve görüntü işleme tutkunu bir mühendis adayı</h3>
@@ -111,7 +111,7 @@ Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime y�
 
 ---
 
-#### en
+#### ‎ ‎ 
 
 <h1 align="center">Hello 👋, I'm Mevlüt Başaran</h1>
 <h3 align="center">An engineer candidate passionate about artificial intelligence and image processing</h3>
