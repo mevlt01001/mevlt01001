@@ -3,7 +3,7 @@
 
 ###### TR
 
-<h1 align="center">Merhaba 👋, Ben Mevlüt Başaran</h1>
+<h1 align="center"># Merhaba 👋, Ben Mevlüt Başaran</h1>
 <h3 align="center">Yapay zeka ve görüntü işleme tutkunu bir mühendis adayı</h3>
 
 <p align="center">
