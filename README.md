@@ -1,5 +1,4 @@
-[🇹🇷](#tr) | [🇺🇸](#en)
-
+[🇺🇸](#en)
 
 <h1 align="center" id="tr">Merhaba 👋, Ben Mevlüt Başaran</h1>
 <h3 align="center">Yapay zeka ve görüntü işleme tutkunu bir mühendis adayı</h3>
@@ -103,7 +102,7 @@ Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime y�
 
 ---
 
-#### EN
+[🇹🇷](#tr)
 
 <h1 align="center" id="en">Hello 👋, I'm Mevlüt Başaran</h1>
 <h3 align="center">An engineer candidate passionate about artificial intelligence and image processing</h3>
