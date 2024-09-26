@@ -1,4 +1,4 @@
-[🇺🇸](#en)
+[EN](#en)
 
 <h1 align="center" id="tr">Merhaba 👋, Ben Mevlüt Başaran</h1>
 <h3 align="center">Yapay zeka ve görüntü işleme tutkunu bir mühendis adayı</h3>
