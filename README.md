@@ -94,10 +94,6 @@ Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime y�
   </tr>
 </table>
 
-```diff
-+ Başarı her zaman ulaşılabilir, yeter ki emek verin!
-+ Kendiniz olun, benzersiz olun ve her zaman ileriye doğru adım atın!
-```
 <p align="center"> Profilimi ziyaret ettiğinz için teşekkürler! 😊 <br> <img src="https://komarev.com/ghpvc/?username=mevlt01001&label=Profile%20Views&color=red&style=flat" alt="Profile View Count" /> </p>
 
 ---
