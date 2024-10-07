@@ -1,32 +1,35 @@
 [EN](#en)
 
-<h1 align="center" id="tr">Merhaba 👋, Ben Mevlüt Başaran</h1>
-<h3 align="center">Yapay zeka ve görüntü işleme tutkunu bir mühendis adayı</h3>
+<h1 align="center" id="tr">Merhaba, Ben Mevlüt Başaran</h1>
+<h3 align="center">Yapay zeka ve görüntü işleme alanında uzmanlaşan mühendis adayı</h3>
 
 <p align="center">
-  🚀 Savunma sanayii için yenilikçi çözümler üretmeyi hedefleyen bir teknoloji meraklısıyım.
+  Savunma sanayii için yenilikçi çözümler geliştirmeye çalışan bir mühendis adayıyım. 
   <br>
-  🛠️ Özellikle görüntü işleme ve yapay zeka alanında projeler geliştiriyorum.
+  Özellikle görüntü işleme ve yapay zeka üzerine projeler geliştiriyorum.
 </p>
 
 ---
 
-### 🌟 Hakkımda
+### Hakkımda
 
-Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime yön vermeye çalışan, öğrenmeye açık ve teknolojiye tutkuyla bağlı biriyim. C++, Python ve Java gibi dillerde kod yazmaktan ve veri bilimi, makine öğrenmesi ve derin öğrenme konularında projeler geliştirmekten büyük keyif alıyorum.
+Selçuk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Öğrenmeye açık, teknolojiye meraklı biriyim. C++, Python ve Java gibi dillerde kod yazmayı ve veri bilimi, makine öğrenmesi, derin öğrenme alanlarında projeler geliştirmeyi seviyorum.
 
-### 🎯 Hedeflerim
+### Hedeflerim
 
-- **Savunma Sanayii**: Görüntü işleme teknolojileri ile otonom sistemler üzerinde çalışarak savunma sanayiine katkı sağlamak.
-- **Yapay Zeka ve Makine Öğrenmesi**: Yapay zeka ve makine öğrenmesi alanında derinlemesine bilgi sahibi olmak ve bu teknolojileri gerçek dünya problemlerine uygulamak.
+- **Savunma Sanayii**: Görüntü işleme teknolojileriyle otonom sistemler geliştirerek savunma sanayiine katkı sağlamak.
+- **Yapay Zeka ve Makine Öğrenmesi**: Bu alanlarda derinlemesine bilgi sahibi olmak ve gerçek dünya problemlerine çözümler üretmek.
 
-### 🚀 Şu Anda Üzerinde Çalıştığım Projeler
+### Şu Anda Üzerinde Çalıştığım Projeler
 
-- **Feature Selection Toolkit**: Veri bilimi projelerinde kullanılmak üzere geliştirdiğim bir Python kütüphanesi. Bu araç, özellik seçimi sürecini basitleştirir ve projelerinizin performansını arttırır.
+- **Feature Selection Toolkit**: Veri bilimi projeleri için geliştirilmiş bir Python kütüphanesi. Özellik seçimini kolaylaştırarak projelerin performansını artırmayı amaçlıyor.
+- **Otonom Sistemler için Görüntü İşleme Çözümleri**: Savunma sanayii için hedef tanıma ve takip sistemleri üzerine çalışmalar.
 
-- **Otonom Sistemler için Görüntü İşleme Çözümleri**: Savunma sanayiinde kullanılmak üzere, hedef tanıma ve takip sistemleri üzerinde çalışıyorum.
+### Medium Yazım
 
-### 💻 Kullandığım Teknolojiler
+- [Bilgisayarlar Nasıl Öğrenir?](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a) - Bilgisayarların öğrenme süreçlerini ve makine öğrenmesinin temel ilkelerini ele aldığım yazımı buradan okuyabilirsiniz.
+
+### Kullandığım Teknolojiler
 
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank">
@@ -47,16 +50,21 @@ Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime y�
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://pillow.readthedocs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PIL" width="40" height="40"/>
+  <a href="https://tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
 </p>
 
-### 📫 Bana Ulaşın
-<br>
+### Bana Ulaşın
 
 <table>
   <tr>
@@ -94,39 +102,42 @@ Merhaba! Ben Mevlüt, bilgisayar mühendisliği öğrencisi olarak kariyerime y�
   </tr>
 </table>
 
-<p align="center"> Profilimi ziyaret ettiğinz için teşekkürler! 😊 <br> <img src="https://komarev.com/ghpvc/?username=mevlt01001&label=Profile%20Views&color=red&style=flat" alt="Profile View Count" /> </p>
+<p align="center"> Profilimi ziyaret ettiğiniz için teşekkür ederim. <br> <img src="https://komarev.com/ghpvc/?username=mevlt01001&label=Profile%20Views&color=red&style=flat" alt="Profile View Count" /> </p>
 
 ---
 
 [🇹🇷](#tr)
 
-<h1 align="center" id="en">Hello 👋, I'm Mevlüt Başaran</h1>
-<h3 align="center">An engineer candidate passionate about artificial intelligence and image processing</h3>
+<h1 align="center" id="en">Hello, I'm Mevlüt Başaran</h1>
+<h3 align="center">Engineer candidate specializing in artificial intelligence and image processing</h3>
 
 <p align="center">
-  🚀 I'm a tech enthusiast aiming to develop innovative solutions for the defense industry.
+  I am an engineering candidate working to develop innovative solutions for the defense industry.
   <br>
-  🛠️ I especially work on projects related to image processing and artificial intelligence.
+  I focus on projects related to image processing and artificial intelligence.
 </p>
 
 ---
 
-### 🌟 About Me
+### About Me
 
-Hello! I'm Mevlüt, a computer engineering student who is open to learning and passionate about technology. I enjoy coding in languages like C++, Python, and Java, and developing projects in data science, machine learning, and deep learning.
+I am a computer engineering student at Selçuk University. I am passionate about technology and always open to learning. I enjoy coding in languages like C++, Python, and Java, and working on projects in data science, machine learning, and deep learning.
 
-### 🎯 Goals
+### Goals
 
-- **Defense Industry**: To contribute to the defense industry by working on autonomous systems using image processing technologies.
-- **Artificial Intelligence and Machine Learning**: To gain in-depth knowledge in artificial intelligence and machine learning and apply these technologies to real-world problems.
+- **Defense Industry**: To work on autonomous systems using image processing technologies and contribute to the defense industry.
+- **Artificial Intelligence and Machine Learning**: To gain in-depth knowledge in these fields and solve real-world problems.
 
-### 🚀 Current Projects
+### Current Projects
 
-- **Feature Selection Toolkit**: A Python library I developed for use in data science projects. This tool simplifies the feature selection process and improves the performance of your projects.
+- **Feature Selection Toolkit**: A Python library I developed for use in data science projects. This tool aims to simplify the feature selection process and improve project performance.
+- **Image Processing Solutions for Autonomous Systems**: Working on target recognition and tracking systems for the defense industry.
 
-- **Image Processing Solutions for Autonomous Systems**: I am working on target recognition and tracking systems to be used in the defense industry.
+### Medium Article
 
-### 💻 Technologies
+- [How Computers Learn](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a) - A discussion of how computers learn and the basic principles of machine learning.
+
+### Technologies
 
 <p align="left">
   <a href="https://www.cplusplus.com/" target="_blank">
@@ -147,17 +158,21 @@ Hello! I'm Mevlüt, a computer engineering student who is open to learning and p
   <a href="https://scikit-learn.org/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
   </a>
-  <a href="https://pillow.readthedocs.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PIL" width="40" height="40"/>
+  <a href="https://tensorflow.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://keras.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" alt="Keras" width="40" height="40"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
   </a>
 </p>
 
-
-### 📫 Get in Touch
-<br>
+### Get in Touch
 
 <table>
   <tr>
@@ -195,8 +210,4 @@ Hello! I'm Mevlüt, a computer engineering student who is open to learning and p
   </tr>
 </table>
 
-```diff
-+ Success is always achievable, as long as you put in the effort!
-+ Be yourself, be unique, and always keep moving forward!
-```
-<p align="center"> Thank you for visiting my profile! 😊 <br> <img src="https://komarev.com/ghpvc/?username=mevlt01001&label=Profile%20Views&color=red&style=flat" alt="Profile View Count" /> </p>
+<p align="center"> Thank you for visiting my profile. <br> <img src="https://komarev.com/ghpvc/?username=mevlt01001&label=Profile%20Views&color=red&style=flat" alt="Profile View Count" /> </p>
