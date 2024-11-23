@@ -125,7 +125,7 @@ I am a computer engineering student at Selçuk University. I am passionate about
 
 ### Goals
 
-- **Defense Industry**: To work on autonomous systems using image processing technologies and contribute to the defense industry.
+- **Defense Industry**: To work on improve autonomous systems' intelligence using image processing technologies and contribute to the this industry.
 - **Artificial Intelligence and Machine Learning**: To gain in-depth knowledge in these fields and solve real-world problems.
 
 ### Current Projects
@@ -135,7 +135,7 @@ I am a computer engineering student at Selçuk University. I am passionate about
 
 ### Medium Article
 
-- [How Computers Learn](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a) - A discussion of how computers learn and the basic principles of machine learning.
+- [How Computers Learn](https://github.com/mevlt01001/linear-regression-implementation) - A discussion of how computers learn and the basic principles of machine learning.
 
 ### Technologies
 
