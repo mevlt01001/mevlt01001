@@ -17,8 +17,8 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Öğrenmeye aç�
 
 ### Hedeflerim
 
-- **Savunma Sanayii**: Görüntü işleme teknolojileriyle otonom sistemler geliştirerek savunma sanayiine katkı sağlamak.
-- **Yapay Zeka ve Makine Öğrenmesi**: Bu alanlarda derinlemesine bilgi sahibi olmak ve gerçek dünya problemlerine çözümler üretmek.
+- **Savunma Sanayii**: Görüntü işleme teknolojileriyle otonom sistemlerin kabiliyetlerini geliştirerek sektöre katkı sağlamak.
+- **Yapay Zeka ve Makine Öğrenmesi**: Bu alanlarda derinlemesine bilgi sahibi olmak ve gerçek dünya problemlerine çözümler üretmek. 
 
 ### Şu Anda Üzerinde Çalıştığım Projeler
 
