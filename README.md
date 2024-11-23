@@ -27,7 +27,7 @@ Selçuk Üniversitesi Bilgisayar Mühendisliği öğrencisiyim. Öğrenmeye aç�
 
 ### Medium Yazım
 
-- [Bilgisayarlar Nasıl Öğrenir?](https://medium.com/@mevlutbasaran01/bilgisayarlar-nasıl-öğrenir-e2e732498e6a) - Bilgisayarların öğrenme süreçlerini ve makine öğrenmesinin temel ilkelerini ele aldığım yazımı buradan okuyabilirsiniz.
+- [Bilgisayarlar Nasıl Öğrenir?](https://github.com/mevlt01001/linear-regression-implementation) - Bilgisayarların öğrenme süreçlerini ve makine öğrenmesinin temel ilkelerini ele aldığım yazımı buradan okuyabilirsiniz.
 
 ### Kullandığım Teknolojiler
 
